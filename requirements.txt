@@ -1,9 +1,12 @@
-
-
 streamlit
 langchain
-langchain-openai
 langchain-community
+langchain-core
+langchain-openai
 langchain-text-splitters
 faiss-cpu
 pypdf
+python-docx
+python-pptx
+pandas
+openpyxl
